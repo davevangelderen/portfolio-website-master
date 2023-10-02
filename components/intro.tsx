@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://drive.google.com/file/d/11BMJJfbSVmWXS_3O_SBIUZCRs94AxkPj"
+              src="https://reverbmedia.nl/wp-content/uploads/ReverbLogoGreen.png"
               alt="Reverb portrait"
               width="192"
               height="192"
